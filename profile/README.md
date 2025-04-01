@@ -1,3 +1,3 @@
-<img width="1242" alt="LUME" src="https://github.com/lume/.github/assets/297678/212e1ae4-9b8c-4eef-860a-14fdf360e9f0">
+<img alt="Lume wordmark with colorful cube behind it." src="https://github.com/user-attachments/assets/cd4da7bf-6066-4cd6-8c1d-f42701a817eb" />
 
-HTML to the next level.
+3D made easy on any website with 3D HTML elements compatible with React, Vue, Svelte, Solid, Angular, Ember, and all other web frameworks.
